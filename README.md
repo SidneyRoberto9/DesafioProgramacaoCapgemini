@@ -44,6 +44,7 @@ As tecnologias usadas nesse projeto:
 
 - [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 - [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/)
+- [Groovy](https://groovy-lang.org/releasenotes/groovy-4.0.html)
 
 ## :white_check_mark: Requirements
 
